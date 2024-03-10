@@ -1,0 +1,9 @@
+.venv/
+.vs/
+.vscode/
+.cache/
+.idea/
+openai_key.txt
+.vs
+.env
+*.pyc
