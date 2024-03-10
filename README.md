@@ -13,6 +13,11 @@ This Streamlit application, developed by the team at the Technical University of
 - **Configurable User Experience**: Users can customize settings such as language, depth of knowledge, style, and learning pace.
 
 
+## Example Videos
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nH8s4v_AN6o/0.jpg)](https://www.youtube.com/watch?v=nH8s4v_AN6o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WTqYn4yAJS0/0.jpg)](https://www.youtube.com/watch?v=WTqYn4yAJS0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZcbDxqdW3LM/0.jpg)](https://www.youtube.com/watch?v=ZcbDxqdW3LM)
+
 
 ## Installation
 1. Ensure Python is installed on your system.
